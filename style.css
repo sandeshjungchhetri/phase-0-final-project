@@ -45,3 +45,14 @@ a{
     text-decoration: none;
     text-transform: uppercase;
 }
+#Home{
+    position: relative;
+    background-image: url(pexels-stephan-seeber-1261728.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    text-align: center;
+    
+}
