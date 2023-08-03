@@ -56,3 +56,14 @@ a{
     text-align: center;
     
 }
+
+#Home .content{
+    width: 100%;
+}
+
+#Home .content h1{
+    font-size: 60px;
+    margin: 10px 0;
+    color:#fff;
+
+}
