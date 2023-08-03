@@ -22,3 +22,11 @@ menu-area{
     z-index: 1;
     
 }
+
+.nav{
+    display: flex;
+    justify-content: right;
+    list-style: none;
+    margin-right: 15%;
+
+}
