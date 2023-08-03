@@ -65,5 +65,17 @@ a{
     font-size: 60px;
     margin: 10px 0;
     color:#fff;
+}
 
+#Home .content{
+    width: 100%;
+}
+
+
+
+#Home .content p{
+    width: 50%;
+    margin: auto;
+    line-height: 1.6;
+    color: #fff;
 }
