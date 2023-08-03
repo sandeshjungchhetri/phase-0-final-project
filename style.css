@@ -30,7 +30,7 @@ menu-area{
     margin-right: 15%;
 
 }
-logo{
+.logo{
     flex: 1 1 auto;
     margin-left:10%;
     text-transform: uppercase;
