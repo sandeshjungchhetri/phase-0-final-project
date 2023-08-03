@@ -9,7 +9,7 @@ body{
     font-family: 'Roboto', sans-serif;
 
 }
-menu-area{
+.menu-area{
     position:fixed;
     display:flex;
     justify-content: center;
