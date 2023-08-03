@@ -39,3 +39,9 @@ logo{
     font-size:  25 px;
 
 }
+a{
+    margin: 15px;
+    color:#000;
+    text-decoration: none;
+    text-transform: uppercase;
+}
